@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">govt-scheme</string>
+    <string name="title_activity_main">govt-scheme</string>
+    <string name="package_name">com.anupamkris.govtscheme</string>
+    <string name="custom_url_scheme">com.anupamkris.govtscheme</string>
+</resources>
