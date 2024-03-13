@@ -6,11 +6,13 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "android": "yarn build && yarn cap copy && yarn cap sync && yarn cap open android"
   },
   "dependencies": {
     "@capacitor/android": "^5.7.2",
     "@capacitor/core": "^5.7.2",
+    "@capacitor/push-notifications": "^5.1.1",
     "axios": "^1.6.7",
     "firebase": "^10.8.1",
     "sass": "^1.70.0",

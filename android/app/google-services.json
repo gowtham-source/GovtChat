@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "706569105331",
+    "project_id": "govtscheme-d1ba9",
+    "storage_bucket": "govtscheme-d1ba9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706569105331:android:bfc1f86d2ab8850d7265c6",
+        "android_client_info": {
+          "package_name": "com.anupamkris.govtscheme"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvAjvB-rQgSsqATFY7kNlcel6M2wXnF5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -47,6 +47,11 @@
   dependencies:
     tslib "^2.1.0"
 
+"@capacitor/push-notifications@^5.1.1":
+  version "5.1.1"
+  resolved "https://registry.yarnpkg.com/@capacitor/push-notifications/-/push-notifications-5.1.1.tgz#512cbd6926109a79fa9656a5a870c20e88304455"
+  integrity sha512-lPtjlMG/PXKZEQjFFI3uqDqC8XaVjOosStvMZMVgxHgn2U45J3QRznUdVR0d6XqLmHnilxLs8ZNislkie0QfPA==
+
 "@esbuild/aix-ppc64@0.19.12":
   version "0.19.12"
   resolved "https://registry.yarnpkg.com/@esbuild/aix-ppc64/-/aix-ppc64-0.19.12.tgz#d1bc06aedb6936b3b6d313bf809a5a40387d2b7f"

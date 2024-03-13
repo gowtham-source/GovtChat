@@ -62,7 +62,7 @@ const sendChat = () => {
     isProcessing.value = true;
 
     axios
-      .post("http://192.168.137.48:5000/query", {
+      .post("http://192.168.0.151:5000/query", {
         query: message,
       })
       .then((response) => {
